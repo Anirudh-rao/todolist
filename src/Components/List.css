@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&family=Poppins:wght@900&display=swap');
+
+
+.html{
+    background-color:burlywood;
+}
+
+
+
+form{
+    flex: 2;
+    background-color:aquamarine;
+    box-sizing:border-box;
+    border-radius: 5rem;
+    padding: 5%;
+}
+p{
+    font-family:'Poppins';
+    font-size:4rem;
+    padding:3%;
+    background-color:aquamarine;
+    box-sizing:border-box;
+    border-radius: 3rem;
+    text-align:center;
+}
+
+h3{
+    font-family:'Poppins';
+    font-size: 3rem;
+    flex-direction: row;
+    text-align:center;
+
+}
+
+.Text {
+    background-color:aquamarine;
+    opacity: 20;
+    padding: 2%;
+    align-items: center;
+    
+}
+.DateTime {
+    background-color:aquamarine;
+    opacity: 20;
+    padding: 2%;
+    align-items: center;
+    border-radius: 5rem;
+    
+}
+.description {
+    background-color:aquamarine;
+    opacity: 20;
+    padding: 2%;
+    align-items: center;
+    
+}
+input{
+    width: 50%;
+    align-items: center;
+    height:20% ;
+    border-radius: 5rem;
+}

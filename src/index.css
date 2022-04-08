@@ -1,1 +1,9 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@800&family=Poppins:wght@900&display=swap');
+.Title{
+    font-family: 'Poppins';
+    font-size:8rem;
+    background-color:aquamarine;
+    border-style: groove;
+    border-radius: 3rem;
+    text-align:center;
+}
